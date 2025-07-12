@@ -1,14 +1,8 @@
-# 🌟 Nilesh Pothenar's Portfolio Website
+# 🚀 Nilesh Pothenar's Portfolio
 
-[![Live Demo](https://img.shields.io/badge/View-Live_Demo-green?style=for-the-badge)](https://nileshpothenar.github.io/Portfolio-Website/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Nileshpothenar/Portfolio-Website)
-
-✨ A modern, responsive portfolio showcasing my front-end development skills with interactive elements and smooth animations.
-
-## 🖥️ Website Preview
-| Desktop View |
-|--------------|
-| ![Desktop Preview](./images/readme/desktop.png)
+<div align="center">
+  <img src="./images/portfolio-preview.jpg" alt="Portfolio Preview" width="800">
+</div>
 
 ## 🚀 Features
 - **Interactive Video Projects** (Hover to play)
