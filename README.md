@@ -7,8 +7,8 @@
 ✨ A modern, responsive portfolio showcasing my front-end development skills with interactive elements and smooth animations.
 
 ## 🖥️ Website Preview
-| Desktop View | Mobile View |
-|--------------|-------------|
+| Desktop View |
+|--------------|
 | ![Desktop Preview](./images/readme/desktop.png)
 
 ## 🚀 Features
