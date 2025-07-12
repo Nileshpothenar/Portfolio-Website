@@ -22,13 +22,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📸 How to Add Screenshots
-1. Create a folder `/images/readme` in your repo
-2. Add these files:
-   - `desktop.png` (1200px width recommended)
-   - `mobile.png` (400px width recommended)
-3. Update the image paths above
-
 ## 🔧 Installation (For Local Development)
 ```bash
 git clone https://github.com/Nileshpothenar/Portfolio-Website.git
