@@ -1,7 +1,7 @@
 # 🚀 Nilesh Pothenar's Portfolio
 
 <div align="center">
-  <img src="./images/portfolio-preview.jpg" alt="Portfolio Preview" width="800">
+  <img src="images/portfolio-preview.png" alt="Portfolio Preview" width="800">
 </div>
 
 ## 🚀 Features
