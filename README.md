@@ -9,7 +9,7 @@
 ## 🖥️ Website Preview
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop Preview](./images/readme/desktop.png) | ![Mobile Preview](./images/readme/mobile.png) |
+| ![Desktop Preview](./images/readme/desktop.png)
 
 ## 🚀 Features
 - **Interactive Video Projects** (Hover to play)
