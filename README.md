@@ -1,10 +1,12 @@
-# Portfolio-Website
-# 🌟 Nilesh Pothenar's Portfolio Website
+# 🚀 Nilesh Pothenar's Interactive Portfolio
 
-[![Live Demo](https://img.shields.io/badge/View-Live_Demo-green?style=for-the-badge)](https://nileshpothenar.github.io/Portfolio-Website/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Nileshpothenar/Portfolio-Website)
+[![Live Website](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://nileshpothenar.github.io/Portfolio-Website/)
+[![GitHub Code](https://img.shields.io/badge/💻_View_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nileshpothenar/Portfolio-Website)
 
-✨ A modern, responsive portfolio showcasing my front-end development skills with interactive elements and smooth animations.
+🎥 **Watch the Demo Video** ↓  
+[![Portfolio Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+*(Click the image above to watch the full video tour)*
 
 ## 🖥️ Website Preview
 | Desktop View |
@@ -21,6 +23,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 🔗 Quick Links
+▸ [Live Demo](https://nileshpothenar.github.io/Portfolio-Website/)  
+▸ [Source Code](https://github.com/Nileshpothenar/Portfolio-Website)  
+▸ [Contact Me](mailto:your-email@example.com)  
 
 ## 🔧 Installation (For Local Development)
 ```bash
